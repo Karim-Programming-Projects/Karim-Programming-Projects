@@ -12,7 +12,7 @@
 </p> 
 
 - 🤖 I'm a programming learning student, I am learning Python
-- 🖥️ As an CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 🖥️ As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - ❔ Ask me about my experience with Python and ChatGPT
 
 ### Connect with Me :
